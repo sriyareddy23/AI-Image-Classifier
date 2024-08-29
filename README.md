@@ -23,7 +23,7 @@ One of the main reasons is the use of Inception modules which can perform convol
     + By entering the URL of the image
 
 + After Images are fetched from the data it will shown. (as per the video)
-+ Now click on the button **Produce Result**. It will give the details of the image whether it's Fake 🤥 or Real 😺 with the probability of how real is this image.
++ Now click on the button **Produce Result**. It will give the details of the image whether it's Fake or Real with the probability of how real is this image.
   
 ## Improvements
 + Our App depends on the order
